@@ -43,3 +43,6 @@ Here are some ideas to get you started:
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudeni&langs_count=6&show_icons=true&theme=dark&locale=en&layout=compact" alt="claudeni" /></p>
 
 <p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=claudeni&show_icons=true&theme=dark&locale=en" alt="claudeni" /></p>
+
+<h3 align="left">Projects:</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

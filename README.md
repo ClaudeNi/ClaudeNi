@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/4443ca6ab6f09fdb26d183191b5f1eb4ccd58301/imgs/html5.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/e0f42783e05babadbc8e41edc936ebe4927a0aec/imgs/css3.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/e0f42783e05babadbc8e41edc936ebe4927a0aec/imgs/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/e0f42783e05babadbc8e41edc936ebe4927a0aec/imgs/Typescript.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/e0f42783e05babadbc8e41edc936ebe4927a0aec/imgs/python.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/e0f42783e05babadbc8e41edc936ebe4927a0aec/imgs/csharp.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/e0f42783e05babadbc8e41edc936ebe4927a0aec/imgs/java.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>

@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="left">Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/ba5e169173cc36860c5bdb52eded10172544eabd/imgs/react.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/903285950d943164c8b37b20049c29fcc948bcf0/imgs/Nextjs.svg" alt="next" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/19d6113c435533d9de714679493e6bb206de7aaa/imgs/Nextjs.svg" alt="next" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/ba5e169173cc36860c5bdb52eded10172544eabd/imgs/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/ba5e169173cc36860c5bdb52eded10172544eabd/imgs/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/ba5e169173cc36860c5bdb52eded10172544eabd/imgs/Godot.svg" alt="Godot" width="40" height="40"/> </a>

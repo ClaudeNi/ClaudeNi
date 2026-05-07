@@ -27,8 +27,3 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/ba5e169173cc36860c5bdb52eded10172544eabd/imgs/chartjs.svg" alt="chartjs" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ClaudeNi/ClaudeNi/ba5e169173cc36860c5bdb52eded10172544eabd/imgs/android.svg" alt="android" width="40" height="40"/> </a> 
 </p>
-
-<h3 align="left">Stats:</h3>
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudeni&langs_count=6&show_icons=true&theme=dark&locale=en&layout=compact" alt="claudeni" /></p>
-
-<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=claudeni&show_icons=true&theme=dark&locale=en" alt="claudeni" /></p>
